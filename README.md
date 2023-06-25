@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Yash28102
 - 👀 I’m interested in web development & web applications
 - 🌱 I’m currently learning at srm institute of science and technology, ghaziabad
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me yg13042@gmail.com
 
 <!---
